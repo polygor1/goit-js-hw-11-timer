@@ -31,10 +31,9 @@ class Test {
 }
 
 const testy = new Test();
-// testy.test();
-// console.log(
-  testy.test()
-// )
+
+testy.test()
+
 
 
 
